@@ -11,15 +11,15 @@
 Introduction
 
 
-<h3>Education></h3>
+<h3>Education</h3>
 B-tech
 Web Designing
 
 
-<h3>Projects></h3>
+<h3>Projects</h3>
 Porter Clone
 Practo Clone
 
 
-<h3>Contacts></h3>
+<h3>Contacts</h3>
 Details about Personal Information
